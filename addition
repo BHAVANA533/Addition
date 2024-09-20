@@ -1,6 +1,7 @@
 //sum of 2 numbers
 #include<stdio.h>
 int main(){
+a=5,b=10
 printf c = a+b
 }
 return 0;
